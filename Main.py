@@ -23,7 +23,7 @@ nave = Nave(randint(0,SCREENWIDTH-55), randint(0,SCREENHEIGHT-55), "images/nave4
 # alien1 = Alien(randint(0,SCREENWIDTH-55), randint(0,SCREENHEIGHT-55), 40, 40, "images/alienok.png")
 # alien2 = Alien(randint(0,SCREENWIDTH-55), randint(0,SCREENHEIGHT-55), 40, 40, "images/alienok.png")
 # alien3 = Alien(randint(0,SCREENWIDTH-55), randint(0,SCREENHEIGHT-55), 40, 40, "images/alienok.png")
-# alien4 = Alien(randint(0,SCREENWIDTH-55), randint(0,SCREENHEIGHT-55), 40, 40, "images/alienok.png")
+# alien4 = Alien(randint(0,SCREENWIDTH-55), randint(0,SCREENHEIGHT-55), 40, 40, "images/alienok.png") 
 
 #heart = pygame.image.load("images/heart.gif")
 
