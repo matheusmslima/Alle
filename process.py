@@ -16,7 +16,7 @@ def process(nave, FPS, total_frames, pontos):
     # i = 0
     # two_seconds = FPS * 2
     # if total_frames % two_seconds == 0:
-    # 	i = 1
+    # 	i = 1   
 
 
     if keys[pygame.K_d]:
